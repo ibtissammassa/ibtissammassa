@@ -28,14 +28,6 @@ class Ibtissammassa():
 if __name__ == '__main__':
     me = Ibtissammassa()
 ```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/rnonate-ma?si=8dd5e6c6c20c40be">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-
 ## My Statistics
 
 <br/>
