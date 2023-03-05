@@ -45,9 +45,6 @@ if __name__ == '__main__':
 <br>
 
 
-[![Ibtissam Massa' Activity Graph]https://github-readme-activity-graph.cyclic.app/graph?ibtissammassa={ibtissammassa}
-
-
 [![](https://visitcount.itsvg.in/api?id=ibtissammassa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
