@@ -19,32 +19,6 @@ Hey! I'm Ibtissam Massa, a Engineering Student at ENSA Agadir, Morocco. I'm lear
 </div>
 </p>
 
-```python
-class Ibtissammassa():
-    
-  def __init__(self):
-    self.name = "Ibtissam Massa";
-    self.username = "ibtissammassa";
-    self.location = "Agadir, Morocco";
-    self.linkedin = "Ibtissam Massa";
-  
-  def __str__(self):
-    return self.name
-if __name__ == '__main__':
-    me = Ibtissammassa()
-```
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/ibtissammassa">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ibtissammassa&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibtissammassa&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-
 [![](https://visitcount.itsvg.in/api?id=ibtissammassa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
