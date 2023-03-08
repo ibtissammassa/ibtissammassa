@@ -2,7 +2,7 @@
   <b>Ibtissam Massa</b>
 </h1>
 
-Hey! I'm Ibtissam Massa, a Engineering Student at ENSA Agadir, Morocco. I'm learning programming through small projects on the side.
+Hey! I'm Ibtissam Massa, an Engineering Student at ENSA Agadir, Morocco. I'm learning programming through small projects on the side.
 
 <br>
 
