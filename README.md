@@ -25,7 +25,6 @@ Hey! I'm Ibtissam Massa, an Engineering Student at ENSA Agadir, Morocco. I'm lea
 
 [![](https://visitcount.itsvg.in/api?id=ibtissammassa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://github-readme-activity-graph.cyclic.app/graph?username={ibtissammassa}
 
 
 
