@@ -2,7 +2,7 @@
   <b>Ibtissam Massa</b>
 </h1>
 
-Hey! I'm Ibtissam Massa, an Engineering Student at ENSA Agadir, Morocco. I'm learning programming through small projects on the side.
+Hey! I'm Ibtissam Massa, a passionate programmer who takes responsibility seriously and is known for being an excellent team player. I put in my best effort in every role I take and genuinely enjoy the journey. Currently, I'm in my third year as a software engineering student at ENSA Agadir, focusing on my computer science degree.I'm skilled in JS and Java, and I'm progressively expanding my programming skills by learning different languages.
 
 <br>
 
