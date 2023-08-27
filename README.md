@@ -2,7 +2,7 @@
   <b>Ibtissam Massa</b>
 </h1>
 
-Hey! I'm Ibtissam Massa, a passionate programmer who takes responsibility seriously and is known for being an excellent team player. I put in my best effort in every role I take and genuinely enjoy the journey. Currently, I'm in my third year as a software engineering student at ENSA Agadir, focusing on my computer science degree.I'm skilled in JS and Java, and I'm progressively expanding my programming skills by learning different languages.
+Hey, I'm Ibtissam Massa,a passionate explorer currently navigating my fourth year as a Software Engineering student at ENSA Agadir. The tech world is my playground, and I'm always up for an adventure .. Whether it's Java, JavaScript (Vue.js Nuxt.js), I'm known to dance my way through code. What fuels me? The thrill of diving into the unknown, embracing new challenges, and unraveling the mysteries of tech. Let's connect and share the excitement of constant discovery 🤓
 
 <br>
 
