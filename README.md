@@ -34,7 +34,10 @@ Hey, I'm Ibtissam Massa,a passionate explorer currently navigating my fourth yea
 </div>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=ibtissammassa&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
 
 
