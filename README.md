@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Ibtissam Massa</b>
+  <b>Ibtissam Massa - Software Engineering Student at ENSA</b>
 </h1>
 
 <p align="center"><samp>
