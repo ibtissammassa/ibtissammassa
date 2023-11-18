@@ -30,10 +30,14 @@ Hey, I'm Ibtissam Massa,a passionate explorer currently navigating my fourth yea
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">  
 </div>
 </p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ibtissammassa&locale=en&mode=weekly&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtissammassa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="160" alt="languages graph"  />
+</div>
 
 <p align="center"><samp>
 Check out my repos ⬇️  
