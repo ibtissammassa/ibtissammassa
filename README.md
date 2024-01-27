@@ -40,7 +40,7 @@ Hey, I'm Ibtissam Massa,a passionate explorer currently navigating my fourth yea
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ibtissammassa&locale=en&mode=weekly&hide_border=false&border_radius=5&theme=dark" height="160" alt="streak graph"  /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtissammassa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=false&theme=dark" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtissammassa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="languages graph"  />
 </div>
 
 <p align="center"><samp>
