@@ -43,6 +43,12 @@ Hey, I'm Ibtissam Massa,a passionate explorer currently navigating my fourth yea
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibtissammassa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&theme=dark" height="160" alt="languages graph"  />
 </div>
 
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ibtissammassa&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
