@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center"><samp>
-Hey, I'm Ibtissam Massa,a passionate explorer currently navigating my fourth year as a Software Engineering student at ENSA Agadir. The tech world is my playground, and I'm always up for an adventure .. Whether it's Java, JavaScript, I'm known to dance my way through code. What fuels me? The thrill of diving into the unknown, embracing new challenges, and unraveling the mysteries of tech. Let's connect and share the excitement of constant discovery 🤓  
+Hey, I'm Ibtissam Massa,a passionate explorer currently navigating my last year as a Software Engineering student at ENSA Agadir. The tech world is my playground, and I'm always up for an adventure .. Whether it's Java, JavaScript, I'm known to dance my way through code. What fuels me? The thrill of diving into the unknown, embracing new challenges, and unraveling the mysteries of tech. Let's connect and share the excitement of constant discovery 🤓  
   </samp>
 </p>
 
